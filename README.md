@@ -1,4 +1,4 @@
- BeraChainDrip
+# BeraChainDrip
 
 帮助领取berachain测试网的水
 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
   账号，请先在这里注册：[ez-captcha注册链接](https://dashboard.ez-captcha.com/#/register?inviteCode=itRYPmegbTt)。
 
 领水:
-
+https://github.com/yono-liu/BeraChainDrip
 ```python
 python example.py
 ```
