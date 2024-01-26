@@ -30,4 +30,4 @@ python example.py
 - **访问链接**：[BeraChain领水](https://artio.faucet.berachain.com/)
 
 
-感谢使用！如有任何问题或建议，可以提issue
+感谢使用!!！如有任何问题或建议，可以提issue
