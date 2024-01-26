@@ -1,6 +1,6 @@
 # BeraChainDrip
 
-帮助领取berachain 测试网的水
+帮助领取 berachain 测试网的水
 
 ### 安装依赖
 
