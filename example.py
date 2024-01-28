@@ -15,7 +15,7 @@ logger.debug(f'address:{account.address}')
 logger.debug(f'key:{account.key.hex()}')
 
 # TODO 填写你的 client key
-yes_captcha_client_key = 'c7812ed4acf747fdb86ff3420a74aa65993639'
+yes_captcha_client_key = ''
 # bera = BeraChainTools(private_key=account.key, client_key=yes_captcha_client_key,solver_provider='yescaptcha',rpc_url='https://rpc.ankr.com/berachain_testnet')
 bera = BeraChainTools(private_key=account.key, client_key=yes_captcha_client_key, solver_provider='ez-captcha',rpc_url='https://rpc.ankr.com/berachain_testnet')
 
